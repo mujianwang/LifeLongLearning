@@ -1,4 +1,4 @@
-package designPatterns.singleton;
+package designPatterns.creationType.singleton;
 
 /**
  * @program: LifeLongLearning
