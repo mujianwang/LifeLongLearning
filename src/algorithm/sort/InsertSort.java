@@ -1,7 +1,7 @@
 package algorithm.sort;
 
 /**
- * 插入排序
+ * 插入排序，直接插入排序
  */
 public class InsertSort {
 
